@@ -2,6 +2,8 @@
 
 Two small Claude-powered agents that automate the top of the content operations funnel for a niche newsletter: trending-topic research and YouTube content strategy. Built to seed [The Emirates Allocator](https://pavan.blog/articles) newsletter — UAE crypto — but the pattern generalises to any niche.
 
+> Built by Pavan Raheja, AI Product Manager in Dubai — **[see my work & get in touch → pavan.blog/work](https://www.pavan.blog/work?utm_source=github&utm_medium=readme&utm_campaign=content-research-agent)**
+
 ## Agents
 
 ### `research_agent.py` — Trending Topics & Pain Points
